@@ -1,6 +1,7 @@
-![Untitled](https://github.com/hatrang12/PBI_Churn-Analysis_Telecom-Enterprise/assets/107136018/1e56699b-e310-4868-b913-5877fb817707)# PBI_Churn-Analysis_Telecom-Enterprise
+# PBI_Churn-Analysis_Telecom-Enterprise
 Identify areas for improvement and implement targeted strategies to reduce churn, ultimately leading to improved customer satisfaction and business success applied for telecommunication segment.
 
+![2e136445b2012cd8bdab10dccf302baa](https://github.com/hatrang12/PBI_Churn-Analysis_Telecom-Enterprise/assets/107136018/5063ba9d-b82b-4d4c-a7ed-cc9da3c6ef0f)
 
 
 ## I. **Introduction**
