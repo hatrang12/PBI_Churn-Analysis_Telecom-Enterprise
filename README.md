@@ -1,5 +1,7 @@
-# PBI_Churn-Analysis_Telecom-Enterprise
+![Untitled](https://github.com/hatrang12/PBI_Churn-Analysis_Telecom-Enterprise/assets/107136018/1e56699b-e310-4868-b913-5877fb817707)# PBI_Churn-Analysis_Telecom-Enterprise
 Identify areas for improvement and implement targeted strategies to reduce churn, ultimately leading to improved customer satisfaction and business success applied for telecommunication segment.
+
+
 
 ## I. **Introduction**
 
@@ -25,8 +27,7 @@ To discover and present meaningful insights in Telecom customer churn analysis u
 By following a structured approach, you can discover and present meaningful insights that drive positive business outcomes.
 
 ### **3. Data dictionary**
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/58d60a00-6203-445f-8a99-b451860e389f/566bf622-d4e8-4dae-9407-100a8bf6825a/Untitled.png)
+![Untitled](https://github.com/hatrang12/PBI_Churn-Analysis_Telecom-Enterprise/assets/107136018/80b93283-4422-4d61-86e8-0d07a8641385)
 
 ## **II. Design Thinking Method**
 
@@ -34,41 +35,41 @@ By following a structured approach, you can discover and present meaningful insi
 
 ### Step 1 - Empathize
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/58d60a00-6203-445f-8a99-b451860e389f/0ded8567-4f3e-4a85-b0c9-7da139daca26/Untitled.png)
+![Untitled1](https://github.com/hatrang12/PBI_Churn-Analysis_Telecom-Enterprise/assets/107136018/2c3b6aad-4561-4884-8559-238df7ee09fe)
 
 ### Step 2 - Define
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/58d60a00-6203-445f-8a99-b451860e389f/ec85ae40-a9d0-4f2f-9e7e-fecff54f0a42/Untitled.png)
+![Untitled2](https://github.com/hatrang12/PBI_Churn-Analysis_Telecom-Enterprise/assets/107136018/c9d47c04-69c5-4c24-8946-9acd12a59aab)
 
 ### Step 3 - Ideate
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/58d60a00-6203-445f-8a99-b451860e389f/1b9ab911-3eb7-4ddd-9119-8647e25fad8e/Untitled.png)
+![Untitled3](https://github.com/hatrang12/PBI_Churn-Analysis_Telecom-Enterprise/assets/107136018/0ad45665-564b-4630-9fb9-5b5b8aee450c)
 
 ### Step 4 - Prototype
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/58d60a00-6203-445f-8a99-b451860e389f/5b0cc873-e0c0-4049-9ac8-ade4a73fb04e/Untitled.png)
+![Untitled4](https://github.com/hatrang12/PBI_Churn-Analysis_Telecom-Enterprise/assets/107136018/f24a3142-130d-445f-bebb-1e23622499d5)
 
 ### Step 5 - Review
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/58d60a00-6203-445f-8a99-b451860e389f/aa5e0a3d-1097-4354-b888-3b1cf4827e69/Untitled.png)
+![Untitled5](https://github.com/hatrang12/PBI_Churn-Analysis_Telecom-Enterprise/assets/107136018/0c7890e6-d362-4333-9e83-93f98b0fad29)
 
 ## III. Visualization
 
 ### 1. Customer churn overview
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/58d60a00-6203-445f-8a99-b451860e389f/926b73d7-919a-4cc6-aff3-c7712876fa8b/Untitled.png)
+![Untitled6](https://github.com/hatrang12/PBI_Churn-Analysis_Telecom-Enterprise/assets/107136018/da2c8b76-eb01-4975-935b-72ce9ad290c1)
 
 ### 2. Customer Detail
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/58d60a00-6203-445f-8a99-b451860e389f/135b71dc-0dcc-4a00-bd36-611fe5a297dd/Untitled.png)
+![Untitled7](https://github.com/hatrang12/PBI_Churn-Analysis_Telecom-Enterprise/assets/107136018/eaf1fc20-0f5c-4aef-b407-dd3e0f3358cd)
 
 ### 3. Churn Reason
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/58d60a00-6203-445f-8a99-b451860e389f/d47f6408-c651-4ede-af33-b772f4fdb436/Untitled.png)
+![Untitled8](https://github.com/hatrang12/PBI_Churn-Analysis_Telecom-Enterprise/assets/107136018/6a63e8a7-f5b6-4e79-9917-583a22cddeb2)
 
 ### 4. Ask a question
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/58d60a00-6203-445f-8a99-b451860e389f/369f8f3e-0e4a-473d-af0b-a8c803733506/Untitled.png)
+![Untitled9](https://github.com/hatrang12/PBI_Churn-Analysis_Telecom-Enterprise/assets/107136018/a7167e0c-50c2-432a-92fe-2a37bcd029ec)
 
 ## IV. Insights
 
@@ -91,38 +92,38 @@ Regarding products and services, we can focus on understanding why customers usi
 
 Some improvement policies we suggest to focus on customer service and incentive packages are as follows:
 
-**Improve Customer Service:**
+- **Improve Customer Service:**
 
-Provide excellent customer service through multiple channels, including phone, email, and online chat.
+  - Provide excellent customer service through multiple channels, including phone, email, and online chat.
 
-Address and resolve customer issues promptly and efficiently.
+  - Address and resolve customer issues promptly and efficiently.
 
-**Personalized Communication:**
+- **Personalized Communication:**
 
-Use data analytics to understand customer behavior and preferences.
+    - Use data analytics to understand customer behavior and preferences.
 
-Send targeted and personalized communication, such as special offers or discounts, based on customer profiles.
+    - Send targeted and personalized communication, such as special offers or discounts, based on customer profiles.
 
-**Value-added Services:**
+- **Value-added Services:**
 
-Introduce new and innovative services that provide additional value to customers.
+    - Introduce new and innovative services that provide additional value to customers.
 
-Offer exclusive content, partnerships, or features that differentiate your telecom services from competitors.
+    - Offer exclusive content, partnerships, or features that differentiate your telecom services from competitors.
 
-**Competitive Pricing and Plans:**
+- **Competitive Pricing and Plans:**
 
-Regularly review and adjust pricing plans to remain competitive in the market.
+    - Regularly review and adjust pricing plans to remain competitive in the market.
 
-Consider offering loyalty discounts or bonuses for long-term customers.
+    - Consider offering loyalty discounts or bonuses for long-term customers.
 
-**Customer Retention Programs:**
+- **Customer Retention Programs:**
 
-Implement customer retention programs that reward long-term customers.
+    - Implement customer retention programs that reward long-term customers.
 
-Offer loyalty programs, discounts, or exclusive access to services to incentivize customers to stay.
+    - Offer loyalty programs, discounts, or exclusive access to services to incentivize customers to stay.
 
-**Proactive Outreach:**
+- **Proactive Outreach:**
 
-Proactively reach out to customers before their contracts expire or when they show signs of dissatisfaction.
+    - Proactively reach out to customers before their contracts expire or when they show signs of dissatisfaction.
 
-Offer personalized solutions or incentives to encourage them to stay.
+    - Offer personalized solutions or incentives to encourage them to stay.
