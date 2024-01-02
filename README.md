@@ -14,7 +14,7 @@ The goal of creating a telecom customer churn analysis using Power BI was to gai
 
 The business needs for creating a telecom customer churn analysis using Power BI include identifying factors causing customer churn, improving customer retention rates, reducing customer acquisition costs, and ultimately improving business profitability. By analyzing customer behavior and identifying trends, the business can implement targeted strategies to reduce churn and retain customers, leading to increased revenue and success.
 
-To discover and present meaningful insights in Telecom customer churn analysis using Power BI, I have followed a structured approach such as :
+To discover and present meaningful insights in Telecom customer churn analysis using Power BI, I have followed a structured approach such as:
 
 - Defining the business problem and goals.
 - Identifying the relevant data sources and cleaning the data.
@@ -74,17 +74,17 @@ By following a structured approach, you can discover and present meaningful insi
 
 ## IV. Insights
 
-- Overall, we see that the number of customers leaving is quite large, accounting for 1,796 people out of a total of 6,687 analyzed customers.
-- In terms of demographics, the total number of customers as well as the number of churns come from both genders at approximately the same rate, in which the number of older customers (over 30) accounts for the majority (81%). ) as well as accounting for 84% of customer churn.
-- Regarding products and services, the unlimited data plan (UDP) package is commonly used by customers by 67.21%, however churned customers also use it by 80.35%, so it is necessary to find out if they quit using the service because of the package. this or not.
+- In summary, the proportion of departing customers is significantly high, comprising 1,796 individuals out of a total of 6,687 customers that were analysed.
+- In terms of demographics, the total number of customers as well as the number of churns come from both genders at approximately the same rate, in which the number of older customers (over 30) accounts for the majority (81%) as well as accounting for 84% of customer churn.
+- With respect to products and services, 67.21% of customers utilise the unlimited data plan (UDP) package; nevertheless, 80.35% of departed customers utilise the same package; therefore, it is essential to determine whether or not this is the reason they stopped using the service.
 - Regarding the type of registration contract, customers are mainly using short-term monthly contracts (accounting for 51.01%), long-term contracts from 1-2 years account for more than 20% of each type.
 - On the other hand, churned customers are mainly customers who sign up for short-term contracts, because they have low commitment ability and do not use it long enough to form a habit or have a desire to continue using it. Therefore, we can focus on improving the group of churn customers with long-term contracts (both large in number and high in commitment).
 - Regarding payment method, the main used method is direct debit.
-- Regarding costs, it is found that churned customers have a quite high average monthly charge, higher than the general average, however the average total charges are quite low, so churned customers belong to the group of only short-term users and do not spend too much money to Use the company's services.
+- In relation to expenses, it has been observed that churned customers incur a relatively elevated average monthly charge, surpassing the overall average. Nevertheless, the average total charges are comparatively modest, indicating that churned customers comprise a subset of the company's services utilised on a temporary basis and do not expend excessive funds on their usage.
 
 ## V. Recommendations
 
-Through analyzing the characteristics of churn customer groups, there are some suggestions for businesses as follows:
+Based on analyzing the characteristics of churn customer groups, there are some suggestions for businesses as follows:
 
 Regarding products and services, we can focus on understanding why customers using UDP packages abandon the most, thereby improving churn rate.
 
